@@ -177,7 +177,7 @@ public class Tester {
 		
 		//initialization
 		Word next = start;
-		System.out.println(next.getString());
+		System.out.print(next.getString() + " ");
 		char c;
 		
 		do {
@@ -196,13 +196,14 @@ public class Tester {
 				}
 			}
 			
-			System.out.println(next.getString());
+			System.out.print(next.getString() + " ");
 			
 			//set-up the halting condition
 			char[] chars = next.getString().toCharArray();
 			c = chars[chars.length-1];
 			
-		} while (c != '.' && c != '?'); //while the last character isn't a period
+		} while (c != '.' && c != '?' && c != ';'); //while the last character isn't a period
+		System.out.println("");
 		
 	}
 	

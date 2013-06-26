@@ -108,27 +108,27 @@ Sample Generated Bible Phrases
 Bible phrases start with an existing word node and probabilistically chooses the next word. Phrase finishes if current visited node ends in a '.', '?', or ';'
 
 (Starting Word 'John')
--John in	a god that he uncovereth his son, by the house built the king's son, and prayed; and pour out of five on the children of the names together the ground; and toward another name: and delivered him blessed.
--John to build upon the whole congregation of wood. 
--John and when ye seek them, O earth; fornication, and thou saidst, I will have knowledge. 
--John his father, and consume them out as the LORD hath he gave them above. 
--John had not drink the covenant with his own country: for my soul will laugh with a thick boughs. 
--John his hand; but according to cease, and with me to instruct him? 
--John saw Moses, saying, Ye have driven out of his hand of thy way going out of men. 
--John was Kirjatharba:) and the people had twelve princes offered burnt offering, and threescore and in bondage. 
--John the feast: for because his righteousness' sake; for the land of Azel. 
--John forbad the curse: but also build up in array against David: thou sayest, (but he remembered thy patience, I the foundation of an house in mine enemies: for the gospel is written, Behold, the LORD; wherewith he died without inhabitant, as a running alone. 
--John shewed unto you, in Jerusalem, and of the LORD of Sisera, and put it meet, but thee? 
+- John in	a god that he uncovereth his son, by the house built the king's son, and prayed; and pour out of five on the children of the names together the ground; and toward another name: and delivered him blessed.
+- John to build upon the whole congregation of wood. 
+- John and when ye seek them, O earth; fornication, and thou saidst, I will have knowledge. 
+- John his father, and consume them out as the LORD hath he gave them above. 
+- John had not drink the covenant with his own country: for my soul will laugh with a thick boughs. 
+- John his hand; but according to cease, and with me to instruct him? 
+- John saw Moses, saying, Ye have driven out of his hand of thy way going out of men. 
+- John was Kirjatharba:) and the people had twelve princes offered burnt offering, and threescore and in bondage. 
+- John the feast: for because his righteousness' sake; for the land of Azel. 
+- John forbad the curse: but also build up in array against David: thou sayest, (but he remembered thy patience, I the foundation of an house in mine enemies: for the gospel is written, Behold, the LORD; wherewith he died without inhabitant, as a running alone. 
+- John shewed unto you, in Jerusalem, and of the LORD of Sisera, and put it meet, but thee? 
 
 (Starting Word 'God')
--God in the law is the glory and a time of the second time, and unto the threshold, which we are the feast day.
--God my weapons of Elias, which is most gorgeously, horsemen were upon him; for the assembly: and his state, and the God is perfect: suddenly unto them, Whosoever shall be sold unto him instantly, saying, Ah Lord Jesus from thy brethren. 
--God will hate thee to justify yourselves in the same? 
--God in Asia, which no comforter. 
--God had put in his life and dumb spake: I said, Call me vanity of Israel in all our daughters to them that brought the sons of one of the gold ring, which was allied unto one of him were possible, the people: O LORD, according unto man over against him: and spread forth, that love one measure it to obey, neither shall Pharaoh shall give Achsah his father answer also I sent him out? 
--God is in peace. 
--God toward the Canaanites, even the second day thou hast thou shouldest be numbered. 
--God resisteth the wilderness? 
--God brought him the children of a bed in Egypt to die. 
--God of bonds. 
--God is given them that were present at hand.
+- God in the law is the glory and a time of the second time, and unto the threshold, which we are the feast day.
+- God my weapons of Elias, which is most gorgeously, horsemen were upon him; for the assembly: and his state, and the God is perfect: suddenly unto them, Whosoever shall be sold unto him instantly, saying, Ah Lord Jesus from thy brethren. 
+- God will hate thee to justify yourselves in the same? 
+- God in Asia, which no comforter. 
+- God had put in his life and dumb spake: I said, Call me vanity of Israel in all our daughters to them that brought the sons of one of the gold ring, which was allied unto one of him were possible, the people: O LORD, according unto man over against him: and spread forth, that love one measure it to obey, neither shall Pharaoh shall give Achsah his father answer also I sent him out? 
+- God is in peace. 
+- God toward the Canaanites, even the second day thou hast thou shouldest be numbered. 
+- God resisteth the wilderness? 
+- God brought him the children of a bed in Egypt to die. 
+- God of bonds. 
+- God is given them that were present at hand.

@@ -1,8 +1,5 @@
 BiblePredict
 ============
-
-Description
-============
 A tool builds a graph of the progression of text probabilities from a given body of text.
 Specific use case: The Bible, King James version
 
